@@ -10,11 +10,12 @@
 
 <h2 align="center"> I’m a Unity, Flutter, & Android Developer </h2>
 
-- 🔭 I’m currently leading [EarlAz][EarlAzWebsite] !
-- 🛸 I'm also working with [WebWhatsAPI][URLWhatsAPI] on a fork [WhatsApp-Automate][WAAutomate] !
-- 🌱 I’m currently learning advanced C# and ML.
-- ⛳ I play CTF in my free time.
-- 🎈 I’m looking to develop more games.
+- 🔭 Currently leading [EarlAz][EarlAzWebsite] !
+- 🛸 Also working with [WebWhatsAPI][URLWhatsAPI] on a fork [WhatsApp-Automate][WAAutomate] !
+- 🌱 Currently learning advanced C# and ML.
+- ⛳ Play CTF in my free time.
+- 🕸 Small part of [Cysec][CySec] !
+- 🎈 Games... Looking to develop more games.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw pen sketches and portraits.
 
@@ -63,3 +64,4 @@
 [spotify]: https://open.spotify.com/user/31plhhhdxai5fn2vxuv3pi55uqr4 "Spotify, Best place to stalk."
 [URLWhatsApi]: https://webwhatsapi.readthedocs.io/en/latest/
 [WAAutomate]: https://github.com/YuvrajRaghuvanshiS/WhatsApp-Automate
+[Cysec]: https://cysec.in "The Cyber Wary Coterie"
