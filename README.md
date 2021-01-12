@@ -60,7 +60,7 @@
 [EarlAzWebsite]: https://earlaz.000webhostapp.com (EarlAz is an abbreviation for "Early Alzheimer's Detection & Prevention" - using Mobile Game and Machine Learning)
 [twitter]: https://twitter.com/Yuvraj_R_S "Twitter, judge my opinions."
 [linkedin]: https://linkedin.com/in/YuvrajRaghuvanshiS  "LinkedIn, judge my academics."
-[protonmail]: mailto:YuvrajRaghuvanshi.S%40protonmail.com?subject=From%20GitHub "Send me a mail, Don't change subject line."
+[protonmail]: mailto:YuvrajRaghuvanshi.S%40protonmail.com?subject=From%20GitHub%20%3CAdd%20subject%20here.%3E "Send me a mail, Don't change subject line."
 [hackerrank]: https://www.hackerrank.com/ShadyMadeMeYRS "HackerRank, Don't judge I don't code regularly."
 [spotify]: https://open.spotify.com/user/31plhhhdxai5fn2vxuv3pi55uqr4 "Spotify, Best place to stalk."
 [URLWhatsApi]: https://webwhatsapi.readthedocs.io/en/latest/
