@@ -10,11 +10,11 @@
 
 <h2 align="center"> I’m a Unity, Flutter, & Android Developer </h2>
 
-- 🔭 Currently leading [EarlAz][EarlAzWebsite] !
-- 🛸 Also working with [WebWhatsAPI][URLWhatsAPI] on a fork [WhatsApp-Automate][WAAutomate] !
+- 🔭 Currently leading [EarlAz][EarlAzWebsite]!
+- 🛸 Also working on [Whatsapp-Key-Database-Extractor](https://github.com/yuvrajraghuvanshis/WhatsApp-Key-Database-Extractor "The most advanced and complete solution for extracting WhatsApp key/DB from package directory (/data/data/com.whatsapp) without root access.")!
 - 🌱 Currently learning advanced C# and ML.
 - ⛳ Play CTF in my free time.
-- 🕸 Small part of [Cysec][CySec] !
+- 🕸 Small part of [Cysec][CySec]!
 - 🎈 Games... Looking to develop more games.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw pen sketches and portraits.
@@ -63,6 +63,4 @@
 [protonmail]: mailto:YuvrajRaghuvanshi.S%40protonmail.com?subject=From%20GitHub%20:%20%3CAdd%20subject%20here.%3E "Send me a mail, Don't change subject line."
 [hackerrank]: https://www.hackerrank.com/ShadyMadeMeYRS "HackerRank, Don't judge I don't code regularly."
 [spotify]: https://open.spotify.com/user/31plhhhdxai5fn2vxuv3pi55uqr4 "Spotify, Best place to stalk."
-[URLWhatsApi]: https://webwhatsapi.readthedocs.io/en/latest/
-[WAAutomate]: https://github.com/YuvrajRaghuvanshiS/WhatsApp-Automate
 [Cysec]: https://cysec.in "The Cyber Wary Coterie"
