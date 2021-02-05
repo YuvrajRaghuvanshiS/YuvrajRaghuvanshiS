@@ -8,7 +8,7 @@
 
 
 
-<h2 align="center"> I’m a Unity, Flutter, & Android Developer </h2>
+<h2 align="center"> I’m an Unity, Flutter, & Android Developer </h2>
 
 - 🔭 Currently leading [EarlAz][EarlAzWebsite]!
 - 🛸 Also working on [Whatsapp-Key-Database-Extractor](https://github.com/yuvrajraghuvanshis/WhatsApp-Key-Database-Extractor "The most advanced and complete solution for extracting WhatsApp key/DB from package directory (/data/data/com.whatsapp) without root access.")!
