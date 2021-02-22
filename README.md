@@ -55,7 +55,7 @@
 
 [<img align="" alt="Yuvraj's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yuvrajraghuvanshis&show_icons=true&hide_border=true&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016" />](# "Some of my stats.")
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuvrajraghuvanshis&theme=gotham)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuvrajraghuvanshis&theme=gotham&hide_border=true)
 ![Yuvraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=yuvrajraghuvanshis&theme=react-dark)
 <!--![Metrics](https://metrics.lecoq.io/yuvrajraghuvanshis?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata)-->
 
