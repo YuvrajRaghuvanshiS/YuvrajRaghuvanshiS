@@ -1,9 +1,3 @@
-<h3 align="center">Light attracts bugs, toggle on 
-  <a href="https://github.com/settings/appearance" target="_blank" title="Click to toggle dark mode on.">
-    <img style="vertical-align:middle;" height="18.72" width="28.08" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/dark_toggle.png" alt="dark toggle"/>
-  </a>
-</h3>
-
 <h1 align="center"> Hi there, I'm Raghuvanshi, Yuvraj <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuvrajraghuvanshis%2Fyuvrajraghuvanshis&count_bg=%233D64C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="yuvrajraghuvanshis" /> </h1>
 
 
