@@ -20,7 +20,6 @@
 [<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/linkedin.svg" alt="LinkedIn" />][linkedin] &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/protonmail.svg" alt="Protonmail" />][protonmail] &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/hackerrank.svg" alt="HackerRank" />][hackerrank] &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/spotify.svg" alt="Spotify" />][spotify] &nbsp;
 
 
 ### Tools and Languages :
@@ -57,5 +56,4 @@
 [linkedin]: https://linkedin.com/in/YuvrajRaghuvanshiS  "LinkedIn, judge my academics."
 [protonmail]: mailto:YuvrajRaghuvanshi.S%40protonmail.com?subject=From%20GitHub%20:%20%3CAdd%20subject%20here.%3E "Send me a mail, Don't change subject line."
 [hackerrank]: https://www.hackerrank.com/ShadyMadeMeYRS "HackerRank, Don't judge I don't code regularly."
-[spotify]: https://open.spotify.com/user/31plhhhdxai5fn2vxuv3pi55uqr4 "Spotify, Best place to stalk."
 [Cysec]: https://cysec.in "The Cyber Wary Coterie"
