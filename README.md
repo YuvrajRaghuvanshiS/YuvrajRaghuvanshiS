@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Raghuvanshi, Yuvraj <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuvrajraghuvanshis%2Fyuvrajraghuvanshis&count_bg=%233D64C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="yuvrajraghuvanshis" /> </h1>
 
 
-<h2 align="center"> I’m an Unity, Flutter, & Android Developer </h2>
+<h2 align="center"> I’m a Unity, Flutter, & Android Developer </h2>
 
 - 🔭 Currently leading [EarlAz][EarlAzWebsite]!
 - 🛸 Also working on [Whatsapp-Key-Database-Extractor](https://github.com/yuvrajraghuvanshis/WhatsApp-Key-Database-Extractor "The most advanced and complete solution for extracting WhatsApp key/DB from package directory (/data/data/com.whatsapp) without root access.")!
