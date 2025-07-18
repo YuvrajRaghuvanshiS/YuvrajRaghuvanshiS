@@ -1,62 +1,52 @@
-<h1 align="center"> Hi there, I'm Raghuvanshi, Yuvraj <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuvrajraghuvanshis%2Fyuvrajraghuvanshis&count_bg=%233D64C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="yuvrajraghuvanshis" /> </h1>
+<h1 align="center">Hi, I'm Yuvraj Raghuvanshi</h1>
+<h3 align="center">Backend + ML Engineer | M.Tech @ IIT Kanpur | Open Source Contributor</h3>
 
+<p align="center">
+  <a href="https://github.com/yuvrajraghuvanshis"><img src="https://img.shields.io/github/followers/yuvrajraghuvanshis?label=GitHub&style=social" /></a>
+  <a href="https://linkedin.com/in/YuvrajRaghuvanshiS"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
+  <a href="mailto:YuvrajRaghuvanshi.S@protonmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" /></a>
+  <a href="https://leetcode.com/u/YuvrajRaghuvanshiS/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" /></a>
+</p>
 
-<h2 align="center"> I’m a Unity, Flutter, & Android Developer </h2>
+---
 
-- 🔭 Currently leading [EarlAz][EarlAzWebsite]!
-- 🛸 Also working on [Whatsapp-Key-Database-Extractor](https://github.com/yuvrajraghuvanshis/WhatsApp-Key-Database-Extractor "The most advanced and complete solution for extracting WhatsApp key/DB from package directory (/data/data/com.whatsapp) without root access.")!
-- 🌱 Currently learning advanced C# and ML.
-- ⛳ Play CTF in my free time.
-- 🕸 Small part of [Cysec][CySec]!
-- 🎈 Games... Looking to develop more games.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to draw pen sketches and portraits.
+### 🚀 About Me
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+- 🧑‍💻 **Software Engineer** with 2+ years experience building scalable backend systems, REST APIs, and ML-powered services.
+- 🏗 **Founding Engineer @ Oolka** – led architecture for credit engine, payments infra, and customer onboarding platform.
+- 🎓 **M.Tech @ IIT Kanpur**, focused on Distributed Systems, Machine Learning, and Vision/NLP models.
+- 🛠 Maintainer of [WhatsApp Key/DB Extractor](https://github.com/yuvrajraghuvanshis/WhatsApp-Key-Database-Extractor) – 300k+ hits, 500+ stars.
+<!-- - 🌱 Currently exploring graph algorithms, infra-as-code, and transformer models. -->
 
-## Places to check me out!
+---
 
-[<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/twitter.svg" alt="Twitter" />][twitter] &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/telegram.svg" alt="Telegram" />][telegram] &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/linkedin.svg" alt="LinkedIn" />][linkedin] &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/protonmail.svg" alt="Protonmail" />][protonmail] &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/hackerrank.svg" alt="HackerRank" />][hackerrank] &nbsp;
+### 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,postgresql,mongodb,fastapi,django,docker,aws,tensorflow,pytorch,linux,git,js,react,ubuntu" />
+</p>
 
-### Tools and Languages :
+---
 
-[<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/unity.svg" alt="Unity 3D" />](# "Unity 3D") &nbsp;
-[<img height="35" width="32" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/visualstudio.svg" alt="Visual Studio"/>](# "Visual Studio") &nbsp;
-[<img height="35" width="32" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/androidstudio.svg" alt="Android Studio" />](# "Android Studio") &nbsp;
-[<img height="35" width="32" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/inkscape.svg" alt="InkScape" />](# "InkScape") &nbsp;
-[<img height="35" width="32" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/flutter.svg" alt="Flutter" />](# "Flutter") &nbsp;
-[<img height="35" width="32" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/linux.svg" alt="Linux" />](# "Kali Linux") &nbsp;
-[<img height="35" width="32" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/android.svg" alt="Android" />](# "Android OS") &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/github.svg" alt="GitHub" />](# "GitHub") &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/csharp.svg" alt="C#" />](# "C#") &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/python.svg" alt="Python" />](# "Python")&nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/dart.svg" alt="Dart" />](# "Dart") &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/html5.svg" alt="HTML5" />](# "HTML5") &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/css3.svg" alt="CSS 3" />](# "CSS3") &nbsp;
+### 📌 Featured Projects
 
+- 🧠 [**EarlAz**](https://github.com/YuvrajRaghuvanshiS/EarlAz): Alzheimer’s risk detection using mini-games + ML inference
+- 🔐 [**WhatsApp DB Extractor**](https://github.com/yuvrajraghuvanshis/WhatsApp-Key-Database-Extractor): Android forensic tool to recover encrypted chat databases
+- 🎟️ [**Blockchain Ticketing System**](https://github.com/YuvrajRaghuvanshiS/mytravel): Decentralized ticket lifecycle using Solidity & React
+- ✏️ [**DoodleVision**](https://github.com/YuvrajRaghuvanshiS/doodlevsn): Sketch-based object classification using CNNs
 
-<br />
+---
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+### 📈 GitHub Stats
 
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajraghuvanshis&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yuvrajraghuvanshis&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-[<img align="" width="425" alt="Yuvraj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yuvrajraghuvanshis&show_icons=true&hide_border=true&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016" />](# "Some of my stats.")
-[<img align="" width="425" alt="Yuvraj's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajraghuvanshis&theme=gotham&hide_border=true&exclude_days=Sun%2CSat" />](# "Some of my stats.")
+---
 
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuvrajraghuvanshis&theme=gotham&hide_border=true) -->
-![Yuvraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=yuvrajraghuvanshis&theme=react-dark)
-<!--![Metrics](https://metrics.lecoq.io/yuvrajraghuvanshis?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata)-->
+### 📬 Contact
 
-[EarlAzWebsite]: https://earlaz.000webhostapp.com (EarlAz is an abbreviation for "Early Alzheimer's Detection & Prevention" - using Mobile Game and Machine Learning)
-[twitter]: https://twitter.com/Yuvraj_R_S "Twitter, judge my opinions."
-[telegram]: https://t.me/YuvrajRaghuvanshiS "Telegram, just don't spam."
-[linkedin]: https://linkedin.com/in/YuvrajRaghuvanshiS  "LinkedIn, judge my academics."
-[protonmail]: mailto:YuvrajRaghuvanshi.S%40protonmail.com?subject=From%20GitHub%20:%20%3CAdd%20subject%20here.%3E "Send me a mail, Don't change subject line."
-[hackerrank]: https://www.hackerrank.com/ShadyMadeMeYRS "HackerRank, Don't judge I don't code regularly."
-[Cysec]: https://cysec.in "The Cyber Wary Coterie"
+- 📧 Email: [YuvrajRaghuvanshi.S@protonmail.com](mailto:YuvrajRaghuvanshi.S@protonmail.com)
+- 💼 Resume: [Click to view PDF](https://github.com/YuvrajRaghuvanshiS/resume/releases/download/latest/Yuvraj.Raghuvanshi.pdf)
